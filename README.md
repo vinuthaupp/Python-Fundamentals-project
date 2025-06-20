@@ -1,5 +1,26 @@
 # Python Fundamentals
--	As part of a capstone project, worked with interconnected datasets involving employee records, designations and projects.
--	Clear, merge and analyze data using various functions from Python libraries NumPy and Pandas.
--	Performed 10 sequential transformation tasks including missing value imputation, normalization, column creation and conditional filtering using Pandas and designed output dataframes and summary tables.
--	Delivered a fully cleaned and merged dataset with added logic columns like bonus eligibility, enhancing clarity and supporting insights for project performance per employee.
+
+-	🐍 Capstone Project: Employee & Project Data Transformation (Python)
+A comprehensive data transformation project focused on analyzing interconnected datasets involving employee records, designations, and project assignments.
+
+🧩 Worked with relational datasets including employee info, job roles, and project details.
+
+🧼 Cleaned, merged, and analyzed data using powerful Python libraries — NumPy & Pandas.
+
+🔄 Performed 10+ sequential transformation tasks, including:
+
+Missing value imputation 🔍
+
+Data normalization and scaling ⚖️
+
+Conditional filtering & logic-based column creation 🧠
+
+Renaming, formatting, and outlier handling ✂️
+
+📝 Designed output DataFrames and summary tables to present transformed insights clearly.
+
+🎯 Created logic-based columns like bonus eligibility, enabling analysis of individual project performance.
+
+✅ Delivered a fully cleaned, structured dataset supporting actionable insights for HR and project management.
+
+🛠️ Tools Used: Python | NumPy | Pandas
