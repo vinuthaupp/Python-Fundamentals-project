@@ -1,6 +1,6 @@
 # Python Fundamentals
 
--	🐍 Capstone Project: Employee & Project Data Transformation (Python)
+🐍 ***Capstone Project: Employee & Project Data Transformation***
 A comprehensive data transformation project focused on analyzing interconnected datasets involving employee records, designations, and project assignments.
 
 🧩 Worked with relational datasets including employee info, job roles, and project details.
